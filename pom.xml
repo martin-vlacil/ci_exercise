@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>via.doc1</groupId>
-    <artifactId>demoex5_2-docker-demo</artifactId>
+    <artifactId>ex6_1-coverage-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demoex5_2-docker-demo</name>
-    <description>demoex5_2-docker-demo</description>
+    <name>ex6_1-coverage-demo</name>
+    <description>ex6_1-coverage-demo</description>
     <properties>
         <java.version>17</java.version>
     </properties>
